@@ -1,10 +1,10 @@
 {
   "version": "0.1.1",
-  "notes": "First update-capable release.",
+  "notes": "First MeetingScribe release (macOS, Apple Silicon).",
   "pub_date": "2026-06-22T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERGVISENYQTFGaUY1SjU5YzZsRkR6UE9pTkpMeUpDd3BJbXZReTJvZC9XMFhDeWpISm5CclFncVhCcjhqQ1BuUHlYWVJaYXpHNnB4aVFMU2Q5WEJubGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTUwMjQ5CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6ClJGbHovZ2h2empTVEZwc0N1ZUFxZzlEZDFPdXFCT3FFWFVRRkNjU0M1aG1Zanl1T2w4M0dFbDN1MXlIczQ3bThkMFhVNHl4L2loYUV0RUg0OFhmVkRnPT0K",
       "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.1/MeetingScribe.app.tar.gz"
     }
   }
