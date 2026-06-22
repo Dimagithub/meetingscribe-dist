@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "notes": "First update-capable release.",
+  "pub_date": "2026-06-22T00:00:00Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "",
+      "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.1/MeetingScribe.app.tar.gz"
+    }
+  }
+}
