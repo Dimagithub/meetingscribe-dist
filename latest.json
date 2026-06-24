@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "Multi-provider AI, per-recording language live switch, per-meeting automation toggles, speaker rename + Share/Export fixes.",
-  "pub_date": "2026-06-23T00:00:00Z",
+  "version": "0.1.5",
+  "notes": "Centralized API gateway — all provider calls (AI, images, transcription, calendar) now route through a secure server relay; no API keys stored in the app. Lower-latency transcription.",
+  "pub_date": "2026-06-24T14:44:40Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFI2M0kvN2N6cG9KY1RXYjEyTC9zeG5DcXVJTDR6VC9nSmNjVjVFekxJQ3pxWjc5MWxaYUZ1V3A3ZXg3SkF3Z2d3ZnF1VTJ1Rm04d1RtbVdqeE0xUGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMjM4NzQ1CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CmdpVTBrMTlnQzQ2aStNRFV1N2JTcFplNlk5WG56bmhqOVE3SEpNc2g1RXUrRFhjZnpoNWtubkJuN29YWDd5RGtocklyZEZNejRMcDJYTURLcnlwTERRPT0K",
-      "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.4/MeetingScribe.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFQvQlB3bTNwckxaZXgvaFFxL0g3eXRoc1RCZEZwOTljNVU0NkJ3eGU2TWVBRWNHKzFiWk1lajFGM2lXVDk4MVVYellOa29leVQ3VEZXeSsvVlNCcmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzEyMjMzCWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CkNaSE52MTNXcnlyclk3bzU2OGRVcmREdHh2dThFelo0cEFEUzR1OW9Odk1BYlBndFpucUNwRmlVenI3aS8vM2IvZkxjYW85NHNWakRxSnB6ZEtyV0RnPT0K",
+      "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.5/MeetingScribe.app.tar.gz"
     }
   }
 }
