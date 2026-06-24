@@ -1,11 +1,11 @@
 {
-  "version": "0.1.5",
-  "notes": "Centralized API gateway — all provider calls (AI, images, transcription, calendar) now route through a secure server relay; no API keys stored in the app. Lower-latency transcription.",
-  "pub_date": "2026-06-24T14:44:40Z",
+  "version": "0.1.6",
+  "notes": "Themes (light/grey/dark), run automations on past meetings, archive meetings, model dropdowns, language auto-correction + reset-on-start, transcript autoscroll, and server-managed automations.",
+  "pub_date": "2026-06-24T16:49:30Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFQvQlB3bTNwckxaZXgvaFFxL0g3eXRoc1RCZEZwOTljNVU0NkJ3eGU2TWVBRWNHKzFiWk1lajFGM2lXVDk4MVVYellOa29leVQ3VEZXeSsvVlNCcmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzEyMjMzCWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CkNaSE52MTNXcnlyclk3bzU2OGRVcmREdHh2dThFelo0cEFEUzR1OW9Odk1BYlBndFpucUNwRmlVenI3aS8vM2IvZkxjYW85NHNWakRxSnB6ZEtyV0RnPT0K",
-      "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.5/MeetingScribe.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERGFDQlBObmVCeHZUU1pDWFRIaXhEaTl1N1NOSTFPRWVMcmtnNkFUK0R0MzhoN25xZ0NXQ3ZhZ1RXSDdkTGN1OFJIM0kwcE1BUHRTMlFIRW1uYjZKS2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzE5NzMyCWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CjgrR3NsbDBtbGhEa1RkbVVBSzFRR2djWmlEbi9weWxoM1JlU2hTU2hCK0dBUklQNUJ1Ukl1b2FOMTgvYUVjUkZJZ3paMVA4UHRSand1MmFhVjAxNkNBPT0K",
+      "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.6/MeetingScribe.app.tar.gz"
     }
   }
 }
