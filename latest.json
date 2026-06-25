@@ -1,11 +1,6 @@
 {
-  "version": "0.1.7",
-  "notes": "Notes mode (#301): mic-only editable note-taking with autosave + 30-min dividers + notes-scoped automations; rolling real-time context window; improved Ukrainian/Russian detection.",
-  "pub_date": "2026-06-25T16:06:31Z",
-  "platforms": {
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFVob1BpWDNrTnJqbGpLTkMxS0QycmpHZzFBbythYWhDZ0FnSlBiUWF2MXZyV3VaWi9oSWJEOGZ2WEZreENZeE84cU0ydHVrMm0rNmVGWTc5Zm9yQXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDAzNTYzCWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6ClNWMTU0dUpmTVkwbTFpWlJGODVrb0xKRVFpSkwrYmFuV2J0cG5STHlxT3FLam5JaEpWOGw1dzcweE4weWYrS0NIZEp2U2k1bE0vbEVaNkVDSmJhVERnPT0K",
-      "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.7/MeetingScribe.app.tar.gz"
-    }
-  }
+  "version": "0.1.8",
+  "notes": "Notes mode UI complete (editable note-taking, autosave, dividers); sidebar separates Meetings/Notes with working search; improved Ukrainian/Russian detection.",
+  "pub_date": "2026-06-25T19:25:17Z",
+  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFRRZjRDUTZQekJQU0l3SUc1ejJEa3I1NjFJcG5vMnFVZ1lXRUIwV2xxclRIS1NlSW9jcFZKNzZRbTQ1NmdoY0xTMTV6MThzYjRwZkwvZFAwRitkeUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDE1NDg5CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CklxeUsvWk5vbVU0NkxmYTJmSTIrMHo0MFNESkxnNytSRmtiZ2dFNFN5RDlmMHZiT2h0TEZHeEVpZG1TOHJaZkRCaDFUSWhFYTA5VGJKUUM3dVlvMkRRPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.8/MeetingScribe.app.tar.gz" } }
 }
