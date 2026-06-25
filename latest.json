@@ -1,11 +1,11 @@
 {
-  "version": "0.1.6",
-  "notes": "Themes (light/grey/dark), run automations on past meetings, archive meetings, model dropdowns, language auto-correction + reset-on-start, transcript autoscroll, and server-managed automations.",
-  "pub_date": "2026-06-24T16:49:30Z",
+  "version": "0.1.7",
+  "notes": "Notes mode (#301): mic-only editable note-taking with autosave + 30-min dividers + notes-scoped automations; rolling real-time context window; improved Ukrainian/Russian detection.",
+  "pub_date": "2026-06-25T16:06:31Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERGFDQlBObmVCeHZUU1pDWFRIaXhEaTl1N1NOSTFPRWVMcmtnNkFUK0R0MzhoN25xZ0NXQ3ZhZ1RXSDdkTGN1OFJIM0kwcE1BUHRTMlFIRW1uYjZKS2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzE5NzMyCWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CjgrR3NsbDBtbGhEa1RkbVVBSzFRR2djWmlEbi9weWxoM1JlU2hTU2hCK0dBUklQNUJ1Ukl1b2FOMTgvYUVjUkZJZ3paMVA4UHRSand1MmFhVjAxNkNBPT0K",
-      "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.6/MeetingScribe.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFVob1BpWDNrTnJqbGpLTkMxS0QycmpHZzFBbythYWhDZ0FnSlBiUWF2MXZyV3VaWi9oSWJEOGZ2WEZreENZeE84cU0ydHVrMm0rNmVGWTc5Zm9yQXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDAzNTYzCWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6ClNWMTU0dUpmTVkwbTFpWlJGODVrb0xKRVFpSkwrYmFuV2J0cG5STHlxT3FLam5JaEpWOGw1dzcweE4weWYrS0NIZEp2U2k1bE0vbEVaNkVDSmJhVERnPT0K",
+      "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.7/MeetingScribe.app.tar.gz"
     }
   }
 }
