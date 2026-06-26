@@ -1,6 +1,6 @@
 {
-  "version": "0.1.9",
-  "notes": "Notion connector, custom/local LLM (LM Studio) + Load-models, per-session run counts + saved outputs in the detail view, meeting detection now opt-in.",
-  "pub_date": "2026-06-25T23:53:29Z",
-  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFptTE9PYWZVQXhobTlabXNtRmxGUUllL3U4bC9SRkxQNXFlWUZJWWVmanNkQUpFcWtleGZmTnAzdFVVNUtibUFRZHQ2R3Fib2k0b0pQeUp1T0hKVVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDMxNTgxCWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CmR1NFl0cWJRMzQyRGNMTlVvVlFueUNML1l3d0cyamF4MGk3VE1SQkFkMWxZd3dVc1BrWGd4N2xiUlFQS3AxbnFnUlRDY2t4STlUc0VBc2RwSDVPVkFBPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.9/MeetingScribe.app.tar.gz" } }
+  "version": "0.1.10",
+  "notes": "Fallback LLM model, user-configurable global keyboard shortcuts, model-picker dropdown, graceful error handling + local reasoning-model support.",
+  "pub_date": "2026-06-26T01:57:37Z",
+  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFpDbUpERVBtc3VmT25IcHpJSndOdXRqQk5lRndzdlk1VjlBMXRVTVhXdTRyUlRVb1BQNTdkc1ljMjc5ZUZ6RjBWNm5VaXNnNU10alpQVUY0T3crZUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDM5MDI5CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CjFwV3hka01sekVzNG4rUlRaS3JBUEtyd1UyU2paa0tabXRlME5lL0JaWW1pVmV5RUZ0cmNNa1ZRT2tNL0F6U3lBZlYzU0lSZE1qUnFJWTY2SmxDaERRPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.10/MeetingScribe.app.tar.gz" } }
 }
