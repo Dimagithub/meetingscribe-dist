@@ -1,6 +1,6 @@
 {
-  "version": "0.1.15",
-  "notes": "Auto language pins Ukrainian on first Cyrillic instead of Russian (nova-3 multi has no uk).",
-  "pub_date": "2026-06-26T16:27:16Z",
-  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFpadTZvMnZlUjZMNk13bnVyOWNxdXN3K0xCSFpmd2lrbUJJcXU1QlJFTWJEcHB3blBzeFNXV2VyQnlIYjZ3KzZMZnZjNG1HeGNnS09qbFpYTEZWMFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDkxMjE0CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6ClREbVpDaWs1N2tqdy9WcDlxYUFkVnBOYUhid3E1dGtBNjRwbldQeWFhMVRvVnhTRGNieE1JbkN2OGtGdUVTZ2JsRjRaOHpGbittZ21VaWhJKzhjSkJ3PT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.15/MeetingScribe.app.tar.gz" } }
+  "version": "0.1.16",
+  "notes": "Auto language holds a placeholder until established, then re-transcribes the wrong-language lead-in.",
+  "pub_date": "2026-06-26T17:13:21Z",
+  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERGUxYytvRm5PRFpCSE51SVI2RkN1RmFtTk1WMFdyNUUvS0x0ZkFoTlp4aTRhVzVkTjUzem9kMWtmbGhNV1hkNy9WSFJtcVo1b0piYmZ6TlVVSjhQN0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDkzOTc0CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6Ck5zc3RXV0FSblV6RWxhd3g0aXJaNGdXa3RlRzhRcExEVjYzQlFtOStDYUtnL3QrNnFPaVZnbmE0VGQvVGEvQy9WNDQzRjVTR3JFc29UM3hGalhEWkFRPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.16/MeetingScribe.app.tar.gz" } }
 }
