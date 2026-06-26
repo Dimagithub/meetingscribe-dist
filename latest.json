@@ -1,6 +1,6 @@
 {
-  "version": "0.1.18",
-  "notes": "Robust Auto detection: placeholder until correct text lands, 8s safety reveal, faster pin.",
-  "pub_date": "2026-06-26T18:33:07Z",
-  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFRKM2NZb0pSZUpudC8rMlF6STB6aFhlbnRPWlM4QmJncnBZZ0tkZytsaE1Na1U4Vk0xNFhSS29sK2VFd3hCVndnNFhNcll5VEdaV3E0ZVlhUWJ0aUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDk4NzYzCWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CnFxZ2h0Z1p5TmtjRUVaTURTaTNJRVI2QTE0ckZWajBrSDNZUlhncyt3OUYwRlNlQnR6M3ZURXBhRnczbVU5RWx6dUh0SkhLNHozM1pydmVOeEZ2RkJRPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.18/MeetingScribe.app.tar.gz" } }
+  "version": "0.1.19",
+  "notes": "Auto language detection + re-transcription + Recognizing badge now work in Notes mode too.",
+  "pub_date": "2026-06-26T19:40:08Z",
+  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERGZ0OVZPcEhyblpqTHlDZHV5dWdPc0JKNmJlVFBLL1ZhRlhkUVdxeDlxUkpzVEhaWTkzcm5HcC8zeSt0ZHMvcEN3OEFDdGRicjBPT2tlNW5zTFl3ZWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTAyNzg2CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CmVCWWlOdE1uVldtV3VZUzhYMFJHaDUzWDZYM2ZVZGk2TFpoZXFEQUdnVEwxejdRUWV6YmhaRnhLdkZZcXFpZExzTVk2NkRlMHRsTjZlL2FuMzFtV0FBPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.19/MeetingScribe.app.tar.gz" } }
 }
