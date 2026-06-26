@@ -1,6 +1,6 @@
 {
-  "version": "0.1.13",
-  "notes": "Removed Russian from the language pickers.",
-  "pub_date": "2026-06-26T13:51:48Z",
-  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFFtOW12QlRSTGk2MkhzMTk5SUlFelk1Wk1QUUMwNElXTEUvNGxVaHllNXg5dlJhMVc5Ykk0dWJzVGlJdFdRby9qZDArWUR4OFNXUkNwU0FzNmFBYndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDgxODg0CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CnUydmtXYWpMSG5DOGl6d0tiYkJSV0kyU1RpKzlPL0o3M1g4S1hrWTlIbyswaURST0thSVhJajYxRVp2VkVOZEhoT1NlZGRKeU5uNERZVmNXcWtmVkNBPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.13/MeetingScribe.app.tar.gz" } }
+  "version": "0.1.14",
+  "notes": "Auto language detection resolves Cyrillic to Ukrainian (never Russian), pins sooner.",
+  "pub_date": "2026-06-26T13:57:02Z",
+  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFdlTnlvM2lUQS8rNHVyalJ2WWdjaWN5dVltT1BrSHg5dHZXMlUvYm80MG1ESXd1ajJnNENOVHI2VmV3Q0NEQWxBaktOZnphYmRjZWdYaGROeHlXbkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDgyMTg5CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CjNsSklJblo0Qmh5VFVHSlNnWjBHdTBjSjI2VzRXNVg2TkVmcUtBa1JsbUJ6VGlzbm1iZHg4MjBuR2ErQ05qblM3cTRQVlgxbVNaSFVVM0VRR3oxZ0RBPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.14/MeetingScribe.app.tar.gz" } }
 }
