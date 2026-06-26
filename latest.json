@@ -1,6 +1,6 @@
 {
-  "version": "0.1.14",
-  "notes": "Auto language detection resolves Cyrillic to Ukrainian (never Russian), pins sooner.",
-  "pub_date": "2026-06-26T13:57:02Z",
-  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFdlTnlvM2lUQS8rNHVyalJ2WWdjaWN5dVltT1BrSHg5dHZXMlUvYm80MG1ESXd1ajJnNENOVHI2VmV3Q0NEQWxBaktOZnphYmRjZWdYaGROeHlXbkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDgyMTg5CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CjNsSklJblo0Qmh5VFVHSlNnWjBHdTBjSjI2VzRXNVg2TkVmcUtBa1JsbUJ6VGlzbm1iZHg4MjBuR2ErQ05qblM3cTRQVlgxbVNaSFVVM0VRR3oxZ0RBPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.14/MeetingScribe.app.tar.gz" } }
+  "version": "0.1.15",
+  "notes": "Auto language pins Ukrainian on first Cyrillic instead of Russian (nova-3 multi has no uk).",
+  "pub_date": "2026-06-26T16:27:16Z",
+  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFpadTZvMnZlUjZMNk13bnVyOWNxdXN3K0xCSFpmd2lrbUJJcXU1QlJFTWJEcHB3blBzeFNXV2VyQnlIYjZ3KzZMZnZjNG1HeGNnS09qbFpYTEZWMFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDkxMjE0CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6ClREbVpDaWs1N2tqdy9WcDlxYUFkVnBOYUhid3E1dGtBNjRwbldQeWFhMVRvVnhTRGNieE1JbkN2OGtGdUVTZ2JsRjRaOHpGbittZ21VaWhJKzhjSkJ3PT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.15/MeetingScribe.app.tar.gz" } }
 }
