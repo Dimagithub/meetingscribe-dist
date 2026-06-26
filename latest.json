@@ -1,6 +1,6 @@
 {
-  "version": "0.1.17",
-  "notes": "Auto language: no wrong-language flash at the switch; provisional text tied to its connection.",
-  "pub_date": "2026-06-26T17:20:22Z",
-  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFJDUVVvMVZwbS9jWTJzU3RlT0ZlMUo4TnNZUTlDaDhabG5RUUIzMmR5M1J4N2w5S1Rmc3lpempwelhNTGx6NUpzU09OTmJubi9yTmN2MTd0c2JiUndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDk0Mzk3CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6Cnp4ZjR3NVF5K05qZlhBdXJoRjFDNmd2Uy9YK3lEbHV6eFFUQUdnSUpNVkUyZlFzaUZybnE3Q2s0WlhWeVRoODBhMTFrWnZ0T25TakJLNjB2am40ZUNRPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.17/MeetingScribe.app.tar.gz" } }
+  "version": "0.1.18",
+  "notes": "Robust Auto detection: placeholder until correct text lands, 8s safety reveal, faster pin.",
+  "pub_date": "2026-06-26T18:33:07Z",
+  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFRKM2NZb0pSZUpudC8rMlF6STB6aFhlbnRPWlM4QmJncnBZZ0tkZytsaE1Na1U4Vk0xNFhSS29sK2VFd3hCVndnNFhNcll5VEdaV3E0ZVlhUWJ0aUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDk4NzYzCWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CnFxZ2h0Z1p5TmtjRUVaTURTaTNJRVI2QTE0ckZWajBrSDNZUlhncyt3OUYwRlNlQnR6M3ZURXBhRnczbVU5RWx6dUh0SkhLNHozM1pydmVOeEZ2RkJRPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.18/MeetingScribe.app.tar.gz" } }
 }
