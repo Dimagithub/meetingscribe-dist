@@ -1,6 +1,6 @@
 {
-  "version": "0.1.11",
-  "notes": "Automations sync resilience — no blank-out on a relay cold-start; retries + keeps last-synced list.",
-  "pub_date": "2026-06-26T02:10:16Z",
-  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFRQWVFWUmRrSjdJa05LYm5YK0tSRmtTWWhFcVI4K2tTangrTmxJNHZEVzRDM3BwcFlNWUVObkJ6Z3hxc0czcElSWUxTZituQkMwUUdZMmhGNldJY2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDM5Nzg2CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6Cm1uT0hiTlVleWFwNUs2aGhGeTQySm1SK2gwYkJtNVowdEFGbkY2T2p0c0hyNW13bW8wS0pzKzBhbjlkZXlPejF1MFNYblhVQktsVU1GRk9yM3B3c0N3PT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.11/MeetingScribe.app.tar.gz" } }
+  "version": "0.1.12",
+  "notes": "Language auto-detection no longer pins Russian (mis-detected for Ukrainian); stays in Auto. Pick Russian manually if needed.",
+  "pub_date": "2026-06-26T13:45:32Z",
+  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFlZWWFkZ3hlak1aZjhxcmd5R24wRUN2aFFoaStRakZweE45V1lyQUxnNW9CNVAvd21tNXJXejJNSk5YY1hIZDBvWWI4UXNsRkN6WHpqLy9LQ2d4UXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDgxNTAyCWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CkNSci80cnNGRGo1Z2RqUDd3V29tYXJETFI3YVJxdi9DZktlZFZLVDlSR2E0QThFYmpVZGhMMys3Z1d3NllRczhQOVVrVit2MlRKeWlFZlBzUW9RT0JBPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.12/MeetingScribe.app.tar.gz" } }
 }
