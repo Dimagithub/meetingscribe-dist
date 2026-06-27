@@ -1,6 +1,6 @@
 {
-  "version": "0.1.27",
-  "notes": "Backlog UI/UX fixes: themes, clear-view, mic detection, image lightbox, sidebar scroll.",
-  "pub_date": "2026-06-27T20:30:51Z",
-  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFptWnh4dFdicVplcnhhQjIxR3BPVUFwbEtsUHpNaEZiUS9yQURvSTNSRTZFVnp5UWt6WFB4WHljQzFYWUloLzBmSEhtRjFhZi9ZNklJcVZxaW1oWXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTkyMjI3CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CmhIdCsxbU10RU93TGNBd3FBRGlmdHF2a095cDFscDFkWlhtSUUyWkdqOEE5eGU2OVJjamQzS29CWnVpa2hWMmxPNDJ3VG1ja3hETDVXSm10bjFrakNBPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.27/MeetingScribe.app.tar.gz" } }
+  "version": "0.1.28",
+  "notes": "Custom vocabulary + speaker name memory (#503/#504).",
+  "pub_date": "2026-06-27T20:47:58Z",
+  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFdKeC9iaTltQk1pWjNMR2x6MWdaUzdLQW42RUg5ek1oM1NtV29VNis4ekRlNkxGVS9mYUZKUWJkMlNCaTdQUGVLcHBDTUZySzB6UE80Rkl5WVFYbmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTkzMjM5CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CmF2NVdlUVI4SXpLc0ljRHZZd0d6Ty96c0hscW9tVG4zNno4TlBqbFV6Z3BnbjQ3QitFZUVFZGIyLysxTzhuaUc0QWk1Z2lTSmkyS1Z5SDY4SHRNUUF3PT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.28/MeetingScribe.app.tar.gz" } }
 }
