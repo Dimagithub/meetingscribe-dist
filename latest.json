@@ -1,6 +1,6 @@
 {
-  "version": "0.1.28",
-  "notes": "Custom vocabulary + speaker name memory (#503/#504).",
-  "pub_date": "2026-06-27T20:47:58Z",
-  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFdKeC9iaTltQk1pWjNMR2x6MWdaUzdLQW42RUg5ek1oM1NtV29VNis4ekRlNkxGVS9mYUZKUWJkMlNCaTdQUGVLcHBDTUZySzB6UE80Rkl5WVFYbmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTkzMjM5CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CmF2NVdlUVI4SXpLc0ljRHZZd0d6Ty96c0hscW9tVG4zNno4TlBqbFV6Z3BnbjQ3QitFZUVFZGIyLysxTzhuaUc0QWk1Z2lTSmkyS1Z5SDY4SHRNUUF3PT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.28/MeetingScribe.app.tar.gz" } }
+  "version": "0.1.29",
+  "notes": "Fix JS load error (lightbox null ref).",
+  "pub_date": "2026-06-27T20:51:02Z",
+  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFYzQVpVSWROZG1FOXNXaGxXa08wNnhVVDNMRnpBc2hEbW5EVVNkVnFUR3A4OEd1T2FVM0kyeWJaS0lydGIrUTUvTFFrYjJzYTVPRDZPcEVDTm1DdndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTkzNDM5CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6ClR5cVlKa1ZMbWFQTVJibGdKR3RJcS9uaTJuamtRRW1NTkM1UE5Ia2FITzkzS3dyL0NscldXdmh1SCtvM0tTUkhQaHRFK09pUWVsUlJZVWsxcnB5RERBPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.29/MeetingScribe.app.tar.gz" } }
 }
