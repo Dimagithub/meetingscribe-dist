@@ -1,6 +1,6 @@
 {
-  "version": "0.1.26",
-  "notes": "Speechmatics Auto mode via detect-then-pin (Ukrainian + diarization).",
-  "pub_date": "2026-06-27T20:17:18Z",
-  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERGNWZGlpcndld1FOajEwRVB0VG9nb0Q2QmxCZVVjbFFBb2F6TnJSak54bWJ4OVNNT3I1MS82elVMVFNvc2pIbDh1T2Vac2dLaGh6VHNXaUdBYWdvRGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTkxMzg2CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6Cmh3QlA1SktxbS81K2NTQzhqUVd4RS93bWRxYjQrSWg1ak5SeTFSYWtCZVExckFnc1pMZVd6bmRQSWVmQjJnQU12ajJpQzFyZm90S0twUkpFcEZsT0N3PT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.26/MeetingScribe.app.tar.gz" } }
+  "version": "0.1.27",
+  "notes": "Backlog UI/UX fixes: themes, clear-view, mic detection, image lightbox, sidebar scroll.",
+  "pub_date": "2026-06-27T20:30:51Z",
+  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFptWnh4dFdicVplcnhhQjIxR3BPVUFwbEtsUHpNaEZiUS9yQURvSTNSRTZFVnp5UWt6WFB4WHljQzFYWUloLzBmSEhtRjFhZi9ZNklJcVZxaW1oWXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTkyMjI3CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CmhIdCsxbU10RU93TGNBd3FBRGlmdHF2a095cDFscDFkWlhtSUUyWkdqOEE5eGU2OVJjamQzS29CWnVpa2hWMmxPNDJ3VG1ja3hETDVXSm10bjFrakNBPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.27/MeetingScribe.app.tar.gz" } }
 }
