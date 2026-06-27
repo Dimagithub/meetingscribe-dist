@@ -1,6 +1,6 @@
 {
-  "version": "0.1.29",
-  "notes": "Fix JS load error (lightbox null ref).",
-  "pub_date": "2026-06-27T20:51:02Z",
-  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFYzQVpVSWROZG1FOXNXaGxXa08wNnhVVDNMRnpBc2hEbW5EVVNkVnFUR3A4OEd1T2FVM0kyeWJaS0lydGIrUTUvTFFrYjJzYTVPRDZPcEVDTm1DdndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTkzNDM5CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6ClR5cVlKa1ZMbWFQTVJibGdKR3RJcS9uaTJuamtRRW1NTkM1UE5Ia2FITzkzS3dyL0NscldXdmh1SCtvM0tTUkhQaHRFK09pUWVsUlJZVWsxcnB5RERBPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.29/MeetingScribe.app.tar.gz" } }
+  "version": "0.1.30",
+  "notes": "Direct provider usage; removed experimental detection (fixes delays/flakiness).",
+  "pub_date": "2026-06-27T20:58:19Z",
+  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFczZU1WNXQyNmhYM1ZVd0Irb2Eya1JUNWlxLzB3UFM0aWRMWnk4bHZGTGIxamRodmlIYWw4SW82VmRKVmREcjVGZVFLazA0MytyOWs5VTc2U1Jtc2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTkzODU0CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CjdjSUlpQ0lHdGdpSW5UcDlFNHEyelpwV05CTlQ1ZmpxTmhaczYrN1IvVnFMSkNwY29nT2k0SkFIOGwrT2tWamFGY2pZMlp3ZFVVSmVYUUg2REFHd0JRPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.30/MeetingScribe.app.tar.gz" } }
 }
