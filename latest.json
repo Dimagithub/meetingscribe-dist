@@ -1,6 +1,6 @@
 {
-  "version": "0.1.19",
-  "notes": "Auto language detection + re-transcription + Recognizing badge now work in Notes mode too.",
-  "pub_date": "2026-06-26T19:40:08Z",
-  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERGZ0OVZPcEhyblpqTHlDZHV5dWdPc0JKNmJlVFBLL1ZhRlhkUVdxeDlxUkpzVEhaWTkzcm5HcC8zeSt0ZHMvcEN3OEFDdGRicjBPT2tlNW5zTFl3ZWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTAyNzg2CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CmVCWWlOdE1uVldtV3VZUzhYMFJHaDUzWDZYM2ZVZGk2TFpoZXFEQUdnVEwxejdRUWV6YmhaRnhLdkZZcXFpZExzTVk2NkRlMHRsTjZlL2FuMzFtV0FBPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.19/MeetingScribe.app.tar.gz" } }
+  "version": "0.1.20",
+  "notes": "Removed slow language special-handling; added Deepgram model picker (use nova-2 + Ukrainian).",
+  "pub_date": "2026-06-27T14:53:09Z",
+  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERGRobzMxYStBanNrTDRQUjVlbGVQWEJrRmU2cVkwdWE0dTUxZFcxK3JIczBxMDlXbTRud1I0dis2UU9Lb1Bwc09hSjIvRDY2ditMK0RwcFNUQXVBeGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTcxOTY3CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6ClZVNTYyKzFzZmlNVWprcmxWZXJRSS8wczhqYjhrUy92R3p4aWVxNzRhaDRXMFAzRTdTbFBJQXZQcnIvbzRYMFpjYmNvYXEveXo5VlZUNWJsbEd0YUFnPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.20/MeetingScribe.app.tar.gz" } }
 }
