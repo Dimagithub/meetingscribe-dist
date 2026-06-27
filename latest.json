@@ -1,6 +1,6 @@
 {
-  "version": "0.1.22",
-  "notes": "New Speechmatics transcription provider (pin a language; strong Ukrainian).",
-  "pub_date": "2026-06-27T15:21:13Z",
-  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFpJbitweDlGQm0wdmZSck5haUsxaFBiSG1NY1JBaUhvb1publdnZ1RPeisxaHlBc2hCbWxBOUY3ekFaalZiZHV1b0dsVzh4MHVpWkhOVTluWGlQR0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTczNjQ1CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CnNlSWdLZm5ZeGlYSmRoVEFqVmhtV1k3bUlRS1BoZkZjZUxaNmJsdHYyaDgvK1I0R2ZIaUZCcVM0aVhqdnFMWEc3aU16ODhvK0FNWGZRRnJtaG41MkF3PT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.22/MeetingScribe.app.tar.gz" } }
+  "version": "0.1.23",
+  "notes": "OpenAI transcription fixed to GA Realtime API (Beta was disabled).",
+  "pub_date": "2026-06-27T15:29:11Z",
+  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERGF1S29MY0hWZjZlR2oxYUNjbDRaN3NhSXlXZUh4bGhDbHJmYW5MdWhBYk1BbnU5Q2ZZaXF1MHQ2MXhsL3kzSjZ6c3FyUldsV0tXM1dKSTZCTnY1R1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTc0MTA3CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CkVDdFJNRHZHN3F4OEhhM2o2S0xRbDBVTCtPbHFGdmU2WldJSDhWZ2c1aVVxYnZ3Tk9EaFZGUjM5ZWxicXA5NkNFR1hJRXQxTGVrQ3FZa29NczhkbENRPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.23/MeetingScribe.app.tar.gz" } }
 }
