@@ -1,6 +1,6 @@
 {
-  "version": "0.1.20",
-  "notes": "Removed slow language special-handling; added Deepgram model picker (use nova-2 + Ukrainian).",
-  "pub_date": "2026-06-27T14:53:09Z",
-  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERGRobzMxYStBanNrTDRQUjVlbGVQWEJrRmU2cVkwdWE0dTUxZFcxK3JIczBxMDlXbTRud1I0dis2UU9Lb1Bwc09hSjIvRDY2ditMK0RwcFNUQXVBeGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTcxOTY3CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6ClZVNTYyKzFzZmlNVWprcmxWZXJRSS8wczhqYjhrUy92R3p4aWVxNzRhaDRXMFAzRTdTbFBJQXZQcnIvbzRYMFpjYmNvYXEveXo5VlZUNWJsbEd0YUFnPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.20/MeetingScribe.app.tar.gz" } }
+  "version": "0.1.21",
+  "notes": "Auto-detect default; new OpenAI gpt-4o-transcribe provider (auto-detects Ukrainian).",
+  "pub_date": "2026-06-27T15:09:31Z",
+  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFVQK1VKOWlOWG10TXo3UWJMK1Q0YTFGbmY4T29Gay9Yd3Jub3E1VEZRSFk4UjJ2WjBicERpeFo4MjZlMTIyeXdQb0JNNU1xdE05RnFUNDdVNUovWndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTcyOTUxCWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CkpXNDFpMjd5bjdtUzcxL0VmMnZCZFZod3BjK2IrWXlUQlV2eHVMZS9mVWpOZVpkVmxNZmpQQWxOb2NneTgzUFNJWlBHT3JlNHFnMzRWTnNMWWVjMkRRPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.21/MeetingScribe.app.tar.gz" } }
 }
