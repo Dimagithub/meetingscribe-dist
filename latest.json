@@ -1,6 +1,6 @@
 {
-  "version": "0.1.24",
-  "notes": "Deepgram auto-detect (detect-then-pin via pre-recorded nova-2).",
-  "pub_date": "2026-06-27T17:13:59Z",
-  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFZjTjdPUi9USDkweG5PUGJSQXhKOCs4Q2l4SlVFQ3g0Q3oyVnNjTzNxT3hxTVBsanBjcmNra09NKzBDYUsvb3l3UW5sWjdSL3dtdnh0UzFtSkJQRlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTgwMzkwCWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6ClFka2MxS0pOTVAzWnpGdHBUT0d3aXBJYnVDb29WYmtvWlgxeGdKaE5UNW9SL1FCbHc2U0Y5Mmp6WVFibmxwVWdwSEkvdUFtS0Nzc1lMZ013d0xPQUNBPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.24/MeetingScribe.app.tar.gz" } }
+  "version": "0.1.25",
+  "notes": "Speechmatics real-time speaker diarization (strong Ukrainian + speaker labels).",
+  "pub_date": "2026-06-27T17:23:08Z",
+  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERGNYVmhwd3pHK2R0OTI4dHdkSG5JVWNOa3RqQ25Nb2RXdWNmMXRyRTU3Z1cvRStPc09tWFI0OXRsM1g1OXplVEl4a2VGNVZuZitLbEdtT0ptaWVUMkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTgwOTY3CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CjZDdERBYUE4amJvVTAzbkdMUTZpY01hSGRVTGM4MDJ6cFdDdGFjSkF6VTRsYXFXeHRsTnZLUEVOM00zQmNlNVp6VVg2S24xbFZrbGh3ZFhrY1lRN0N3PT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.25/MeetingScribe.app.tar.gz" } }
 }
