@@ -1,6 +1,6 @@
 {
-  "version": "0.1.33",
-  "notes": "Fix Ukrainian auto-detect: OpenAI lead-in via manual commit (verified by self-test).",
-  "pub_date": "2026-06-29T12:27:28Z",
-  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFVUTWQvSFMrVDRKODNYUktrUENsZ3NFY3VxU1BVYVdFSmtxUk5jemZoTW5kSXFSUUFRejJ1cVMzNEprTGttRUl3NVhGYmJhTlJSSFp6MkdqZG81Q2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzM2MDE4CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CjF6c01QM0ZhbDFqa3h3WUdOeitOSEJjTkFzSnZNM0pla3RhUStPZHNDaHVpS1B6Nm5mTGlCZ1FNenQ4SEZnQWdXMmJOQlVCN0ZISXlCdTk2ajBHdkFBPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.33/MeetingScribe.app.tar.gz" } }
+  "version": "0.1.34",
+  "notes": "Lead-in re-transcribed by the provider for clean Ukrainian throughout.",
+  "pub_date": "2026-06-29T12:41:08Z",
+  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFk1Qmo2OHBMMG5ZWGl1cVlHSEpocCtpRkZKckxyK2l6bkNZUnVwc2FaZ0tJVjN2VE9KZmdZWUZzaUZYV2VXM21rdlBuNktCTFhiUmJ2YzhHVVpQU2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzM2ODM2CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CkJKSXFSTHBvWFo2c0FNaTBLa0dwYU5uMDJBdzN2ZEZCcUFBeEN2WExmYnZ2K0wrU1UxNDN5RlZkL3kxT1VlVzNMMy9GVVB6QzR3Tmp4VGsxai9pOEJnPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.34/MeetingScribe.app.tar.gz" } }
 }
