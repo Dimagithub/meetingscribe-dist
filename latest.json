@@ -1,6 +1,6 @@
 {
-  "version": "0.1.39",
-  "notes": "Notion writes to a page (child page) or a database (row), auto-detected.",
-  "pub_date": "2026-06-29T14:18:25Z",
-  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFN2TnB1NEdIejQ4M0JYTEhVdVU1enV2WkRYYm1YUmNEQXJFNFlhSW5ZaGs2L2NoNjVTWXRveTJpQUNid2NxQzIxcDFtZW5Lak5HZUpvYkhkaFJjZmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzQyNjcwCWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CmQwN1g3M0lkdFJWbWRQQkJQaGk3alBYZTdtWnBGOFZlNktORHlXeEtxVjVjdE1MMlBnUGI5cDVNMktHL2luMHk4Y2RBZHEwRGFRVkFiaFVsQ3V2TUJ3PT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.39/MeetingScribe.app.tar.gz" } }
+  "version": "0.1.40",
+  "notes": "Notion auto-connect: create-under-parent sub-database + one-click Connect link.",
+  "pub_date": "2026-06-29T14:35:05Z",
+  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFY2c0VET21yZFlaYkptRTZhN0x5c0ZkSEpwcG5EY1lHNkQ5MGZMSFRCYzFlWmZyVlk2L0FtNnRzcEdJbE1ZN0ZhYzBsdlh2dHl0WmNLaWdaUkZOekFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzQzNjc2CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6Ckx5TUtrMTNmRUdsaUhkdmlWUEZjeXZ2dTAxWUVLVjBXVFJpVUNuei92MXBTWXptdjhVR3RaQnFBUGdNSnR2TmtrQ3g5VElvNHcrNlhiNUhGdFc0cERBPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.40/MeetingScribe.app.tar.gz" } }
 }
