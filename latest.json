@@ -1,6 +1,6 @@
 {
-  "version": "0.1.34",
-  "notes": "Lead-in re-transcribed by the provider for clean Ukrainian throughout.",
-  "pub_date": "2026-06-29T12:41:08Z",
-  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFk1Qmo2OHBMMG5ZWGl1cVlHSEpocCtpRkZKckxyK2l6bkNZUnVwc2FaZ0tJVjN2VE9KZmdZWUZzaUZYV2VXM21rdlBuNktCTFhiUmJ2YzhHVVpQU2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzM2ODM2CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CkJKSXFSTHBvWFo2c0FNaTBLa0dwYU5uMDJBdzN2ZEZCcUFBeEN2WExmYnZ2K0wrU1UxNDN5RlZkL3kxT1VlVzNMMy9GVVB6QzR3Tmp4VGsxai9pOEJnPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.34/MeetingScribe.app.tar.gz" } }
+  "version": "0.1.35",
+  "notes": "Backlog batch: languages, rename-enter, scope filter, dupe prevention, Notion errors.",
+  "pub_date": "2026-06-29T13:08:35Z",
+  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERGFUYmx2bXJ1M0lrdWlDUUhJa2pvNkRBdU1Vb3FZRVJqUnpQNi9VcmxnSjdwQW9nMjFieTZRdlBHRVl2K21ERGw4VHhlU2dzd0x1ZGs3YWgxTjlyMFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzM4NDg3CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6ClhaYlJDSExPYko0MytwTCtwZll4MHZDUHlza014V2ZmZVFrQnMyWVBPc0NXWDZqR21IK1NmVHBMK0I4VVFSZjJjUFpSV3ZieXY4VnJhYzNnUTB5QkJBPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.35/MeetingScribe.app.tar.gz" } }
 }
