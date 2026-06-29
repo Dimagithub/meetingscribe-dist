@@ -1,6 +1,6 @@
 {
-  "version": "0.1.35",
-  "notes": "Backlog batch: languages, rename-enter, scope filter, dupe prevention, Notion errors.",
-  "pub_date": "2026-06-29T13:08:35Z",
-  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERGFUYmx2bXJ1M0lrdWlDUUhJa2pvNkRBdU1Vb3FZRVJqUnpQNi9VcmxnSjdwQW9nMjFieTZRdlBHRVl2K21ERGw4VHhlU2dzd0x1ZGs3YWgxTjlyMFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzM4NDg3CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6ClhaYlJDSExPYko0MytwTCtwZll4MHZDUHlza014V2ZmZVFrQnMyWVBPc0NXWDZqR21IK1NmVHBMK0I4VVFSZjJjUFpSV3ZieXY4VnJhYzNnUTB5QkJBPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.35/MeetingScribe.app.tar.gz" } }
+  "version": "0.1.36",
+  "notes": "Settings reorganized into left-nav tabs.",
+  "pub_date": "2026-06-29T13:19:07Z",
+  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERGRxVFpKeUtTSEhTY3N6RWZtUzBPdjFNTmpWRzUxT0JhS003a0hGM1JyOFYzclB1c3Q4TTdEZmhUa05rMHN4RVBmVHk1RXdHU0kySk9QVVMrSWF5SUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzM5MTAxCWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CnZ0ekxYUUxXUnJjSXBUb1lTSTNNZThiS3ptT0g1Q1VibnNKb0dyQ2tuZGtJV2JSdkxtR3E0T0w3NHdVaTRjM3hyaG1PMndoL0FPc1htYzdoOE0zWUJRPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.36/MeetingScribe.app.tar.gz" } }
 }
