@@ -1,6 +1,11 @@
 {
-  "version": "0.1.40",
-  "notes": "Notion auto-connect: create-under-parent sub-database + one-click Connect link.",
-  "pub_date": "2026-06-29T14:35:05Z",
-  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFY2c0VET21yZFlaYkptRTZhN0x5c0ZkSEpwcG5EY1lHNkQ5MGZMSFRCYzFlWmZyVlk2L0FtNnRzcEdJbE1ZN0ZhYzBsdlh2dHl0WmNLaWdaUkZOekFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzQzNjc2CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6Ckx5TUtrMTNmRUdsaUhkdmlWUEZjeXZ2dTAxWUVLVjBXVFJpVUNuei92MXBTWXptdjhVR3RaQnFBUGdNSnR2TmtrQ3g5VElvNHcrNlhiNUhGdFc0cERBPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.40/MeetingScribe.app.tar.gz" } }
+  "version": "0.1.41",
+  "notes": "Direct-to-provider transcription (lower latency); notes use OpenAI; recording UX: ready indicator + no dropped opening audio; Notion re-architecture; Reload-from-Server menu.",
+  "pub_date": "2026-06-29T21:08:08Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFV5SE0vdkdxb0hib3Uzb0RjWCtCWTNiUUFHU0RwVTVwOWM1b1ZUMDBDQXNaUXY5NW1ENU9ZTW5ZbW5ISkxVbXJheThtWnZnT1BOSzRORHZvYXkzNncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzY2NjIzCWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6Ck96OE5SSGZZc2tOSzY2bytkS2RCT09uOEdIdnZzNXhPejFKTlhSZkVZTVFsYit1YWtIbnl6RnZYZXU1bERPTXgxY1QzdnIrV1ZMTzZtM3lyWnJIYUF3PT0K",
+      "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.41/MeetingScribe.app.tar.gz"
+    }
+  }
 }
