@@ -1,6 +1,6 @@
 {
-  "version": "0.1.36",
-  "notes": "Settings reorganized into left-nav tabs.",
-  "pub_date": "2026-06-29T13:19:07Z",
-  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERGRxVFpKeUtTSEhTY3N6RWZtUzBPdjFNTmpWRzUxT0JhS003a0hGM1JyOFYzclB1c3Q4TTdEZmhUa05rMHN4RVBmVHk1RXdHU0kySk9QVVMrSWF5SUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzM5MTAxCWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CnZ0ekxYUUxXUnJjSXBUb1lTSTNNZThiS3ptT0g1Q1VibnNKb0dyQ2tuZGtJV2JSdkxtR3E0T0w3NHdVaTRjM3hyaG1PMndoL0FPc1htYzdoOE0zWUJRPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.36/MeetingScribe.app.tar.gz" } }
+  "version": "0.1.37",
+  "notes": "Meeting-capture PRD gaps: prompt title/time, don-t-ask, permission remediation, auto-stop offer.",
+  "pub_date": "2026-06-29T13:45:23Z",
+  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERGZkS0FMZWdZMkZ3a25uZGppWkphV2YwWHAxSi9vUjE4aml0ZHp5TmNUZS8rNTEvRmlpY3pSVElBV2dvTXZveW9RRDVxc0hKM1BWSUYxQTVzY2lXL1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzQwNjk0CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CjRvNFN6ZzJnWGNLZ2kyc3RLakNLb1RuWE1UM1Q5VkMyVnlYbHZvd0xOeWdnUC9YNXIxU2JZUjh4am5wNWcvNk9rQjQyblJGMXNrRXNnRW45Q1lpa0FBPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.37/MeetingScribe.app.tar.gz" } }
 }
