@@ -1,6 +1,6 @@
 {
-  "version": "0.1.37",
-  "notes": "Meeting-capture PRD gaps: prompt title/time, don-t-ask, permission remediation, auto-stop offer.",
-  "pub_date": "2026-06-29T13:45:23Z",
-  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERGZkS0FMZWdZMkZ3a25uZGppWkphV2YwWHAxSi9vUjE4aml0ZHp5TmNUZS8rNTEvRmlpY3pSVElBV2dvTXZveW9RRDVxc0hKM1BWSUYxQTVzY2lXL1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzQwNjk0CWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CjRvNFN6ZzJnWGNLZ2kyc3RLakNLb1RuWE1UM1Q5VkMyVnlYbHZvd0xOeWdnUC9YNXIxU2JZUjh4am5wNWcvNk9rQjQyblJGMXNrRXNnRW45Q1lpa0FBPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.37/MeetingScribe.app.tar.gz" } }
+  "version": "0.1.38",
+  "notes": "Real Notion tool-execution log (live + recorded); LLM prompt can-t call Notion.",
+  "pub_date": "2026-06-29T14:09:12Z",
+  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFNXSUxUTXhHd1NrQmxzR1FzdnlGNGN0VVdMQkVJREZDWDQzRGlZc1RxcFRpQ05nV1lGdGdZMXlmWDJveTlyNU5DeUJ6T2l3TWNia1c2WnJ0RGFNOVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzQyMTIyCWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6Cm9RVUEwUnhIa2dCUWxCVTZyajZvZk1lcEhPZVk0N3VlZUtCY3FHUXoyTjE0ak5OcktBb1VSYzk2UVA1RzRzb0hTSEZwbzhZNStYVkl4Y0h3eUdIZ0RRPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.38/MeetingScribe.app.tar.gz" } }
 }
