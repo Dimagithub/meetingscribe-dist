@@ -1,6 +1,6 @@
 {
-  "version": "0.1.38",
-  "notes": "Real Notion tool-execution log (live + recorded); LLM prompt can-t call Notion.",
-  "pub_date": "2026-06-29T14:09:12Z",
-  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFNXSUxUTXhHd1NrQmxzR1FzdnlGNGN0VVdMQkVJREZDWDQzRGlZc1RxcFRpQ05nV1lGdGdZMXlmWDJveTlyNU5DeUJ6T2l3TWNia1c2WnJ0RGFNOVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzQyMTIyCWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6Cm9RVUEwUnhIa2dCUWxCVTZyajZvZk1lcEhPZVk0N3VlZUtCY3FHUXoyTjE0ak5OcktBb1VSYzk2UVA1RzRzb0hTSEZwbzhZNStYVkl4Y0h3eUdIZ0RRPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.38/MeetingScribe.app.tar.gz" } }
+  "version": "0.1.39",
+  "notes": "Notion writes to a page (child page) or a database (row), auto-detected.",
+  "pub_date": "2026-06-29T14:18:25Z",
+  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFN2TnB1NEdIejQ4M0JYTEhVdVU1enV2WkRYYm1YUmNEQXJFNFlhSW5ZaGs2L2NoNjVTWXRveTJpQUNid2NxQzIxcDFtZW5Lak5HZUpvYkhkaFJjZmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzQyNjcwCWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CmQwN1g3M0lkdFJWbWRQQkJQaGk3alBYZTdtWnBGOFZlNktORHlXeEtxVjVjdE1MMlBnUGI5cDVNMktHL2luMHk4Y2RBZHEwRGFRVkFiaFVsQ3V2TUJ3PT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.39/MeetingScribe.app.tar.gz" } }
 }
