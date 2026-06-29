@@ -1,6 +1,6 @@
 {
-  "version": "0.1.31",
-  "notes": "OpenAI lead-in language detection then handoff to selected provider (Auto).",
-  "pub_date": "2026-06-27T21:11:37Z",
-  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFNzWUNrOVdoblgvRTU2NDJKZmdaNkIwdVAxc3lLRitQZW51OUpZcjZFdVArcE1TNU5OTkNtb0FSYWF2S3lJazV5QldxOVk2eVlkMXl5dHBESGFyU0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTk0NjczCWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CmZXQTcrSkNoTmRqY1Q2dEF4ZmhOZFo3dTlUOCtlRm9PZkc1ZEVoQ21LQkhNK3ZuSEFqT2pFeFN4QXlxaDdUYVd6MGxLMmIybWF0bjF0RG9vMi9vekNRPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.31/MeetingScribe.app.tar.gz" } }
+  "version": "0.1.32",
+  "notes": "Fix Auto lead-in: carry detected language to provider (was multi → Russian).",
+  "pub_date": "2026-06-29T12:10:30Z",
+  "platforms": { "darwin-aarch64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFRKTzdoNS9tY1N1MTBDSVBRNzhJUkM2MnNJWEZBaVVVMktPQm5xTFIyaTl0dnhHd0Q3c1RmVmlzTnlQVTg1WFBvc3o5SVBTcEpURFpQR0dXWTNNTUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzM1MDAxCWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6Ci9TN0hlajFPM3VuMmxxdDE5R283enlReGJ5S28xL0RaS2phaUx6ams1OER4ZGtVU21USXRzRUtuOGM4a1lxRS9YTXo4NDJqaS9ELzdUZXUvU2dBd0RBPT0K", "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.32/MeetingScribe.app.tar.gz" } }
 }
