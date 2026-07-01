@@ -1,11 +1,11 @@
 {
-  "version": "0.1.41",
-  "notes": "Direct-to-provider transcription (lower latency); notes use OpenAI; recording UX: ready indicator + no dropped opening audio; Notion re-architecture; Reload-from-Server menu.",
-  "pub_date": "2026-06-29T21:08:08Z",
+  "version": "0.1.42",
+  "notes": "Meeting detection fixes: per-meeting suppression (\"Don't ask\" no longer over-suppresses other meetings), fixed popup sizing, broader Zoom/Meet/Teams/Webex calendar-link detection.",
+  "pub_date": "2026-07-01T16:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFV5SE0vdkdxb0hib3Uzb0RjWCtCWTNiUUFHU0RwVTVwOWM1b1ZUMDBDQXNaUXY5NW1ENU9ZTW5ZbW5ISkxVbXJheThtWnZnT1BOSzRORHZvYXkzNncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzY2NjIzCWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6Ck96OE5SSGZZc2tOSzY2bytkS2RCT09uOEdIdnZzNXhPejFKTlhSZkVZTVFsYit1YWtIbnl6RnZYZXU1bERPTXgxY1QzdnIrV1ZMTzZtM3lyWnJIYUF3PT0K",
-      "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.41/MeetingScribe.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFp4eSt0eVQ4bWdIVFErZ3pUWmxCdnhOUEhtcWZ1cENZSXM1SU12SFRXYzdwbDJRZkR6TXZjY2FGbmxtQllPMGZyZTh0OTM1bFFHek82SjBDWVJGOWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODU4NzYyCWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CmEwU2krMVdPL2o2c3FuL0MwU0IxeW5VT2V5YzhHYzU3N3VaZ1h2dEsyclZLL2o3d3ViWG43eXpPQ2JrejVmeTZCUXJxVGRrS1d0a0grNXUvS1d5Q0RnPT0K",
+      "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.42/MeetingScribe.app.tar.gz"
     }
   }
 }
