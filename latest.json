@@ -1,11 +1,11 @@
 {
-  "version": "0.1.42",
-  "notes": "Meeting detection fixes: per-meeting suppression (\"Don't ask\" no longer over-suppresses other meetings), fixed popup sizing, broader Zoom/Meet/Teams/Webex calendar-link detection.",
-  "pub_date": "2026-07-01T16:00:00Z",
+  "version": "0.1.43",
+  "notes": "Bug fixes: meeting rename dropping from the list, past-meeting overlay panel overlap, sidebar selection not persisting, skills returning silently truncated output, manual skill runs only seeing the last 8000 chars of the transcript. Plus: transcript speaker-ID de-duplication, and opt-in extended logging (Settings → Logs) for debugging skill/transcription issues.",
+  "pub_date": "2026-07-01T21:24:03Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFp4eSt0eVQ4bWdIVFErZ3pUWmxCdnhOUEhtcWZ1cENZSXM1SU12SFRXYzdwbDJRZkR6TXZjY2FGbmxtQllPMGZyZTh0OTM1bFFHek82SjBDWVJGOWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODU4NzYyCWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CmEwU2krMVdPL2o2c3FuL0MwU0IxeW5VT2V5YzhHYzU3N3VaZ1h2dEsyclZLL2o3d3ViWG43eXpPQ2JrejVmeTZCUXJxVGRrS1d0a0grNXUvS1d5Q0RnPT0K",
-      "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.42/MeetingScribe.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFRyL0Q2UWF3NEZ6bW5JZERPdVVDMWJmM2RicEVNOEg2VTFKWWwwYnFkU0VRNHgzUE0xcmRBTE9FRVQ5UVE3ZWhMWU1hQjhucDFTVTRjbk1aYXFnUXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTQxMDAyCWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CnZBMS9JbXJqYStteDEzQmR6dzRYTW5ENy9sNUhxaFB5elVpcDlKdWFhNUNnYVNnallwaXFMem1aWmdOMnFqa2NFR0cxWUZ0NmNhQ1JCRVU5bE9JS0NRPT0K",
+      "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.43/MeetingScribe.app.tar.gz"
     }
   }
 }
