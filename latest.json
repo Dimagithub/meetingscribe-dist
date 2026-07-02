@@ -1,11 +1,11 @@
 {
-  "version": "0.1.43",
-  "notes": "Bug fixes: meeting rename dropping from the list, past-meeting overlay panel overlap, sidebar selection not persisting, skills returning silently truncated output, manual skill runs only seeing the last 8000 chars of the transcript. Plus: transcript speaker-ID de-duplication, and opt-in extended logging (Settings → Logs) for debugging skill/transcription issues.",
-  "pub_date": "2026-07-01T21:24:03Z",
+  "version": "0.1.44",
+  "notes": "Performance: Edit/open-meeting/save-automation no longer blocked behind redundant relay round-trips or an oversized local file read. Opening a past meeting now shows instantly instead of waiting on an artifacts scan + a skills fetch; saving an automation is optimistic (dialog closes immediately, syncs to the server in the background).",
+  "pub_date": "2026-07-02T02:15:13Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFRyL0Q2UWF3NEZ6bW5JZERPdVVDMWJmM2RicEVNOEg2VTFKWWwwYnFkU0VRNHgzUE0xcmRBTE9FRVQ5UVE3ZWhMWU1hQjhucDFTVTRjbk1aYXFnUXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTQxMDAyCWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CnZBMS9JbXJqYStteDEzQmR6dzRYTW5ENy9sNUhxaFB5elVpcDlKdWFhNUNnYVNnallwaXFMem1aWmdOMnFqa2NFR0cxWUZ0NmNhQ1JCRVU5bE9JS0NRPT0K",
-      "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.43/MeetingScribe.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2REODY3TW9ERFNmYUJLZWVJWVR4VHAydUovYm56b1JSVllpYlVmdFg0N2l0ZTc2bkJ2eS9Idm5HY1AvbDgwSkE2K2RXMVg5Y0pmVCtDQk44bzhzb08zRkRmZTg3T1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTU4NDYyCWZpbGU6TWVldGluZ1NjcmliZS5hcHAudGFyLmd6CmxSSGdRaUZoeGRQdndXeDBxUnFlRkJrNmZlZldkUVdTRVhzVDdjelRqLy90VnllclFSU3ZaaDVlMFFBU256Wm5CQUxKZDd3TEtEWmxGTHNsUCt3SERRPT0K",
+      "url": "https://github.com/Dimagithub/meetingscribe-dist/releases/download/v0.1.44/MeetingScribe.app.tar.gz"
     }
   }
 }
